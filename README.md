@@ -1,7 +1,7 @@
 # ☕ Exercícios de Java
 
 ## 📌 Sobre o Repositório
-Repositório destinado a reunir exercícios práticos de programação desenvolvidos durante os estudos de Java, com foco na aplicação de conceitos fundamentais da linguagem e no desenvolvimento da lógica de programação.
+Repositório destinado a reunir exercícios práticos de programação desenvolvidos durante os estudos de Java no segundo semestre, com foco na aplicação de conceitos fundamentais da linguagem e no desenvolvimento da lógica de programação.
 
 ## 💻 Exercícios Desenvolvidos
 - **Cadastro Básico:** exercício de entrada e exibição de dados.
